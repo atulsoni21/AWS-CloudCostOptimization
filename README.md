@@ -11,9 +11,9 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 
 
 ### IAM Permissions Policy:
-Delete Snapshots
-Describe Snapshots
-Describe Volumes
+Delete Snapshots,
+Describe Snapshots,
+Describe Volumes,
 Describe Instances
 
 
